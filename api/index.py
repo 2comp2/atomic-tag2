@@ -114,7 +114,7 @@ def main():
             </head>
             <body style="font-family: 'Inter', sans-serif;">
                 <h1 style="color: red; font-size: 30px;">
-                    HI NIGGER
+                    Made By Fein
                 </h1>
             </body>
         </html>
